@@ -1,2 +1,2 @@
 # Selenium-Automation
-Repo containing my Selenium practice exercises and projects
+Repo containing my Selenium practice exercises and projects.
